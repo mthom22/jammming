@@ -1,0 +1,6 @@
+.SearchBar {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Barlow', sans-serif;
+}
